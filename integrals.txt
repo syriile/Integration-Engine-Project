@@ -1,0 +1,5 @@
+| sin x - cos x dx
+| x^2 + x + 1 + sin x + cos x dx
+| 7x^6 + 5x - x^-2 + x^-7 + sin 10x - cos 4x dx
+| x^2 - 5x + 3x^-2 + 30cos 30x + 45sin 45x + 15sin 15x dx
+| x^3 + 1 - cos 5x dx
